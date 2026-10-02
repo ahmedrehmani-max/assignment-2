@@ -6,7 +6,7 @@ const student = {
   'reg': 'SP24-BCS-142',
   'department': 'Computer Science',
   'semester': '6th',
-  'section': 'A',
+  'section': 'B',
   'email': 'ahmadsattar457@gmail.com',
 };
 
@@ -102,6 +102,7 @@ class _Card extends StatelessWidget {
               ),
               child: const CircleAvatar(
                 radius: 56,
+                // headshot crop of assets/images/image.png
                 backgroundImage: AssetImage('assets/images/student.png'),
               ),
             ),
