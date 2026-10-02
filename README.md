@@ -20,7 +20,7 @@ department, semester, section and email.
 
 | Phone | Desktop |
 |---|---|
-| ![phone](screenshots/student-card-phone.png) | ![desktop](screenshots/student-card-desktop.png) |
+| ![phone](screenshots/app-screen-phone.png) | ![desktop](screenshots/app-screen-desktop.png) |
 
 ## Run
 
